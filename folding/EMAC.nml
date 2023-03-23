@@ -1,0 +1,15 @@
+! -*- f90 -*-
+&CTRL
+file_input = '/ptmp/andrep/ZANIS/ZANIS__________20000801_0000_fold.nc'
+file_output = 'test.nc' 
+X_name = 'lon'  
+Y_name = 'lat'  
+Z_name = 'lev'  
+T_name = 'time'  
+APS_name = 'aps'  
+HYAM_name = 'hyam'  
+HYBM_name = 'hybm'  
+Q_name = 'qm1'  
+PV_name = 'PV' 
+PT_name = 'tpot' 
+/

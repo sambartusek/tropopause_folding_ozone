@@ -1,0 +1,15 @@
+! -*- f90 -*-
+&CTRL
+file_input = ''
+file_output = ''
+X_name = 'longitude'
+Y_name = 'latitude'
+Z_name = 'level'
+T_name = 'time'
+APS_name = 'sp'
+HYAM_name = 'hyam'
+HYBM_name = 'hybm'
+Q_name = 'q'
+PV_name = 'pv'
+PT_name = 'pt'
+/
